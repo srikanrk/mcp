@@ -1,0 +1,11 @@
+awslabs.aws-dataprocessing-mcp-server
+mcp
+fastmcp
+pydantic
+httpx
+botocore
+loguru
+boto3
+requests
+pyyaml
+cachetools
